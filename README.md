@@ -1,4 +1,4 @@
-# 🪶 Nityam (नित्यम) - Daily Habit & Spiritual Routine Tracker
+# Nityam (नित्यम) - Daily Habit & Spiritual Routine Tracker
 
 **Nityam** is a modern, clean, and mindful Android application designed to help you build discipline, track your daily habits, stay connected with sacred verses, and organize your personal notes seamlessly.
 
@@ -6,7 +6,7 @@
 
 Click the link below to download and install the latest **Nityam APK** directly on your Android device:
 
-👉 **[Download Nityam v1.0.0 APK](../../releases/latest/download/Nityam-v1.0.0.apk)**
+👉 **[Download Nityam v2.0 APK]([../../releases/latest/download/Nityam-v1.0.0.apk](https://github.com/suyashpan262-prog/Nityam-App/releases/download/v2.0/Nityam-v2.0.apk))**
 
 *(Note: This link automatically fetches the APK from the latest GitHub Release.)*
 
