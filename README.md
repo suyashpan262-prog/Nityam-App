@@ -6,7 +6,7 @@
 
 Click the link below to download and install the latest **Nityam APK** directly on your Android device:
 
-👉 **[Download Nityam v2.0 APK](../../releases/latest/download/Nityam-v2.0.apk)**
+👉 **[Download Nityam v2.0.1 APK](../../releases/latest/download/Nityam-v2.0.1.apk)**
 
 *(Note: This link automatically fetches the APK from the latest GitHub Release.)*
 
@@ -26,7 +26,7 @@ Click the link below to download and install the latest **Nityam APK** directly 
 
 ## 📲 How to Install
 
-1. Click the **Download Nityam v1.0.0 APK** link above to download the `.apk` file to your phone.
+1. Click the **Download Nityam v2.0.1 APK** link above to download the `.apk` file to your phone.
 2. Open the downloaded file from your notification bar or file manager.
 3. If prompted, allow **Install from Unknown Sources** in your phone's settings.
 4. Tap **Install** and start your daily journey with **Nityam**!
