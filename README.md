@@ -1,4 +1,4 @@
-# Nityam (नित्यम) - Daily Habit & Spiritual Routine Tracker
+# Nityam (नित्यम) - Daily Routine & Habit Tracker
 
 **Nityam** is a modern, clean, and mindful Android application designed to help you build discipline, track your daily habits, stay connected with sacred verses, and organize your personal notes seamlessly.
 
