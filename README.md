@@ -2,13 +2,23 @@
 
 **Nityam** is a modern, clean, and mindful Android application designed to help you build discipline, track your daily habits, stay connected with sacred verses, and organize your personal notes seamlessly.
 
-## 📥 Direct APK Download
+## 🚀 Direct APK Download (Latest: v2.0.2)
 
 Click the link below to download and install the latest **Nityam APK** directly on your Android device:
 
-👉 **[Download Nityam v2.0.1 APK](../../releases/latest/download/Nityam-v2.0.1.apk)**
+📥 **[Download Nityam v2.0.2 APK](../../releases/latest/download/Nityam-v2.0.2.apk)**
 
-*(Note: This link automatically fetches the APK from the latest GitHub Release.)*
+🌐 **Official Web Download Center:** [https://nityam-9e423.web.app/download](https://nityam-9e423.web.app/download)
+
+---
+
+## 🌟 What's New in v2.0.2
+
+* **Google AdMob Live Monetization:** Officially approved by Google AdMob. Live Banner, Native Cards, and full-screen Interstitial ads enabled.
+* **Automatic Dedicated Download Center:** Instant background downloading with zero blank redirects at [nityam-9e423.web.app/download](https://nityam-9e423.web.app/download).
+* **Enhanced Version Detection:** Smart in-app version checker with anti-repeat notification protection.
+* **English In-App Update Experience:** Clean, professional English update dialogs.
+* **Performance & Stability:** Faster cold startup and optimized database operations.
 
 ---
 
@@ -24,9 +34,9 @@ Click the link below to download and install the latest **Nityam APK** directly 
 
 ---
 
-## 📲 How to Install
+## 📱 How to Install
 
-1. Click the **Download Nityam v2.0.1 APK** link above to download the `.apk` file to your phone.
+1. Click the **[Download Nityam v2.0.2 APK](../../releases/latest/download/Nityam-v2.0.2.apk)** link or visit [nityam-9e423.web.app/download](https://nityam-9e423.web.app/download).
 2. Open the downloaded file from your notification bar or file manager.
 3. If prompted, allow **Install from Unknown Sources** in your phone's settings.
-4. Tap **Install** and start your daily journey with **Nityam**!
+4. Tap **Update** (or **Install**) and start your daily journey with **Nityam**!
